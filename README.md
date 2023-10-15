@@ -1,8 +1,9 @@
-# Data-Analysis
+# Data-Analysis🧐
 The most comprehensive collection of data analysis content in history, including multiple books code, models, algorithms, and field cases.
+
 历史上最全面的数据分析内容集合，包括多本书籍代码、模型、算法和实战案例。
 
-## Background
+## Background🎭
 With the increasing prevalence of data-driven decision making, data analytics has become a very attractive field in today's society. However, for many students at the learning stage, especially those who want to get started in data analysis, it is difficult to find a systematic, practical and targeted guide or tool.
 
 We are a group of students who are passionate about data analysis. Although we are still in the learning process, we are well aware of the challenges and confusion we faced at the beginning of this journey. Out of concern for the latecomers and a desire to contribute something to the data analytics community, we decided to co-create this project.
@@ -19,15 +20,23 @@ We sincerely invite everyone interested in data analytics, whether you are a beg
 
 我们真诚地邀请所有对数据分析感兴趣的人，无论你是初学者还是资深专家，都可以加入我们，一起学习、分享和成长。
 
-## Data analysis learning resources
+## Data analysis learning resources🔥
 At present, we have focused on providing the complete code for the following two books (see the branch readme file for details) :
+
 当前，我们主要致力于提供了以下两本书的完整代码（具体介绍可以看分支的readme文件）：
 
-1.R data analysis📖: Detailed explanation of methods and cases
-1.R数据分析📖：方法与案例详解
+1.R data analysis📖: Detailed explanation of methods and cases（Branch name : R-Data-analysis-Methods-and-cases）
+
+1.R数据分析📖：方法与案例详解 (分支名称 : R-Data-analysis-Methods-and-cases）
+![image](https://github.com/Allenfree/Data-Analysis/assets/119774235/ef3ec199-a1d2-4e85-bd83-8c87d01e8c54)
+
+2.Data analysis using python (Branch name : )
+
+2.利用python进行数据分析
+![image](https://github.com/Allenfree/Data-Analysis/assets/119774235/d6c3e6a1-da67-48b1-bc64-c2085987eab7)
 
 
-## Participation contribution
+## Participation contribution🎉
 1. Orlando Allen
 2. Billy Yang
-3. 
+3. Leory Zhang
