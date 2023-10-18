@@ -1,7 +1,9 @@
 # Data-Analysis🧐
 The most comprehensive collection of data analysis content in history, including multiple books code, models, algorithms, and field cases.
+Continuous updating！！！
 
 历史上最全面的数据分析内容集合，包括多本书籍代码、模型、算法和实战案例。
+持续更新！！！
 
 ## Background🎭
 With the increasing prevalence of data-driven decision making, data analytics has become a very attractive field in today's society. However, for many students at the learning stage, especially those who want to get started in data analysis, it is difficult to find a systematic, practical and targeted guide or tool.
